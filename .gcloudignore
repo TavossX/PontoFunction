@@ -1,0 +1,7 @@
+﻿.gcloudignore
+.git
+.gitignore
+.vs/
+bin/
+obj/
+Properties/launchSettings.json

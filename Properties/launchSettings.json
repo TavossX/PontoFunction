@@ -1,0 +1,9 @@
+﻿{
+    "profiles": {
+        "PontoFunction.GCFunctions": {
+            "commandName": "Project",
+            "launchBrowser": false,
+            "commandLineArgs": "--target  PontoFunction.PontoGcFunction"
+        }
+    }
+}
